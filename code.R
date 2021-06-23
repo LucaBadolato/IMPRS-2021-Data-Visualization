@@ -2,6 +2,9 @@
 # 2021-06-18 -- MPIDR dataviz course
 # Final Assignment: Maps challange
 # Author: Luca Badolato 
+#
+# Significant credits go to Ilya Kashnitsky from with I taken (and learned) several lines of code 
+#
 #===============================================================================
 
 # clear the working environment
