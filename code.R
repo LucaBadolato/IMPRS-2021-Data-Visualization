@@ -3,7 +3,7 @@
 # Final Assignment: Maps challange
 # Author: Luca Badolato 
 #
-# Significant credits go to Ilya Kashnitsky from with I taken (and learned) several lines of code 
+# Significant credits go to Ilya Kashnitsky from which I taken (and learned) several lines of code 
 #
 #===============================================================================
 
