@@ -4,7 +4,6 @@
 # Author: Luca Badolato 
 #
 # Significant credits go to Ilya Kashnitsky from which I taken (and learned) several lines of code 
-#
 #===============================================================================
 
 # clear the working environment
@@ -108,7 +107,6 @@ bord <- gdtr %>%
                        ) +
   theme(legend.position = c(.0, .06),
         legend.direction = "horizontal",
-        #legend.text = element_text("0,1,2"),
         plot.title = element_text(hjust = 0.5, 
                                   vjust = 0.1,
                                   size = 16, 
